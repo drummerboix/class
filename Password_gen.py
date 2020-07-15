@@ -1,3 +1,5 @@
+# Password generator by ADEDAMOLA OGUNBONA
+
 # import library for random stuff
 from random import *
 # for letters stuff
