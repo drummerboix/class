@@ -1,3 +1,5 @@
+# Guess the number game by ADEDAMOLA OGUNBONA
+
 # for random generation
 from random import *
 
