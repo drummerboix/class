@@ -191,6 +191,10 @@ int main()
     {
         den = "AM";
     }
+    else if (hour == 24)
+    {
+        den = "AM";
+    }
     else
     {
         den = "PM";
