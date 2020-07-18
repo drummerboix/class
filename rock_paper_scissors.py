@@ -21,8 +21,14 @@ while player == False:
     #print(pc) 
     if player == pc:
         print("It's a tie mate")
+    # quitting the game
     elif player == "quit":
-        break
+        ans = input("Do you really want to quit? ")
+        if ans == "no":
+            pc = stuff[randint(0,2)]
+        else:
+            print("Bye mate")
+            break
     # Conditions for paper
     elif (player == "Paper") or (player == "paper"):
         if (pc == "Scissors") or (pc == "scissors"):
