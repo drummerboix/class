@@ -1,6 +1,7 @@
 '''
 ROCK PAPER SCISSORS Project by ADEDAMOLA OGUNBONA
 version 2.0
+Accepts first letter capitalized or complete lower case
 '''
 
 # random stuff
